@@ -1,1 +1,1 @@
-## Just a simple web-site with my [CV](http://handlebarsjs.com/)
+## Just a simple web-site with my [CV](https://ritafomkina.github.io/simple-cv/)
