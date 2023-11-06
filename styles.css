@@ -55,7 +55,7 @@ html {
 .section {
     display: flex;
     flex-direction: column;
-    row-gap: 1.5rem;
+    row-gap: 0.7rem;
 }
 .section-title {
     font-weight: 600;
@@ -75,6 +75,12 @@ html {
     display: flex;
     flex-direction: column;
     row-gap: 0.7rem;
+}
+.line {
+    display: block;
+    height: 1px;
+    background: black;
+    min-width: 70%;
 }
 
   .link {
